@@ -4,8 +4,6 @@
 
 - 📝 I regularly write articles on [https://mainaksikdar.hashnode.dev/](https://mainaksikdar.hashnode.dev/)
 
-- 📫 How to reach me **mainaksikdar@gmail.com**
-
 - 📄 Know about my experiences [https://mainaksikdar.github.io/resume/](https://mainaksikdar.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
