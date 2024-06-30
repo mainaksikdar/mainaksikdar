@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mainak Sikdar</h1>
 <h3 align="center">A devops enthusiastic test engineer from India.</h3>
-<img height="450" src="https://www.inventateq.com/assets/python/small.gif" data-src="https://www.inventateq.com/assets/python/small.gif" alt="Mainak" width="100%">
-
-- 📝 I regularly write articles on [https://mainaksikdar.hashnode.dev/](https://mainaksikdar.hashnode.dev/)
 
 - 📄 Know about my experiences [https://mainaksikdar.github.io/resume/](https://mainaksikdar.github.io/resume/)
 
