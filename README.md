@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mainak Sikdar</h1>
-<h3 align="center">A devops enthusiastic test engineer from India.</h3>
+<h3 align="center">An enthusiastic test engineer from India.</h3>
 
 - 📄 Know about my experiences [https://mainaksikdar.github.io/resume/](https://mainaksikdar.github.io/resume/)
 
